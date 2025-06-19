@@ -84,7 +84,7 @@ If HTTPS is selected, `noTLSVerify: False` is added to the `originRequest`.
 Run the script:
 
 ```bash
-python cloudflare_tunnel_update.py
+python zt_tunnelupdate.py
 ```
 
 It will:
@@ -115,16 +115,15 @@ export CF_API_TOKEN="your-token"
 
 ## 📈 Future Enhancements
 
-- [ ] CLI with `argparse`
-- [ ] Multi-host update support
-- [ ] Logging and error handling
 - [ ] Dockerized deployment
+- [ ] CloudFlare Access Policies Automation
+- [ ] Additional Logging and Error Handling
 
 ---
 
 ## 🐳 Docker (Coming Soon)
 
-We plan to provide a Docker image for seamless deployment in CI/CD or cron-based automation.
+I also plan to provide a Docker image for seamless deployment in CI/CD or cron-based automation.
 
 ---
 
@@ -137,4 +136,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 🙋‍♂️ Author
 
 **Your Name**  
-GitHub: [@your-username](https://github.com/your-username)
+GitHub: [@yzmar4real](https://github.com/yzmar4real)
