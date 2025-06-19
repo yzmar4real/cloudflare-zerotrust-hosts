@@ -115,7 +115,7 @@ export CF_API_TOKEN="your-token"
 
 ## 📈 Future Enhancements
 
-- [ ] Dockerized deployment
+- [ ] FastAPI Integrated version
 - [ ] CloudFlare Access Policies Automation
 - [ ] Additional Logging and Error Handling
 
@@ -129,7 +129,7 @@ I also plan to provide a Docker image for seamless deployment in CI/CD or cron-b
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
