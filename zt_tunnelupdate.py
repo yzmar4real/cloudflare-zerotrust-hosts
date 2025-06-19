@@ -1,10 +1,10 @@
 """
-cloudflare_tunnel_update.py
+zt_tunnelupdate.py
 
 This script updates the configuration of an existing Cloudflare Tunnel by appending a new
 hostname-to-service ingress rule. The script uses the official Cloudflare Python SDK.
 
-Author: Your Name
+Author: Oluyemi Oshunkoya
 """
 
 import os
